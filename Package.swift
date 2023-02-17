@@ -16,6 +16,6 @@ let package = Package(
         // .package(url: /* package url */, from: "1.0.0"),
     ],
     targets: [
-        .binaryTarget(name: "SendBirdCalls", url: "https://github.com/sendbird/sendbird-calls-ios/releases/download/1.10.1/SendBirdCalls.xcframework.zip", checksum: "2832438679ba3fa4943a1a78885909d8237e558bde0ee1a3bbee505885347dc9"),
+        .binaryTarget(name: "SendBirdCalls", url: "https://github.com/sendbird/sendbird-calls-ios/releases/download/1.10.2/SendBirdCalls.xcframework.zip", checksum: "33d432f510359d66c0d2f4cb65ca0085584f3c41ff047ad954aa58bef16bdefe"),
     ]
 )
